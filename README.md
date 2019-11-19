@@ -1,5 +1,5 @@
 # Análise de Diferentes Algoritmos Semissupervisinados para Data Augmentation
-Repositório de minha segunda Iniciação Científica intitulada "Análise de Algoritmos Semissupervisionados para Data Augmentation"
+Repositório de minha segunda Iniciação Científica intitulada "Análise de Algoritmos Semissupervisionados para Data Augmentation" realizada no período de agosto de 2018 a julho de 2019, como bolsista PIBIC.
 
 Análise de Diferentes Algoritmos Semissupervisinados para Data Augmentation
 Willian Dihanster G. Oliveira, Otávio A. B. Penatti, Lilian Berton - ICT/UNIFESP 
