@@ -1,2 +1,7 @@
-# semi-supervised-algorith-analysis
-Repositório de minha 2ª Iniciação Científica intitulada "Análise de Algoritmos Semissupervisionados para Data Augmentation"
+# Análise de Diferentes Algoritmos Semissupervisinados para Data Augmentation
+Repositório de minha segunda Iniciação Científica intitulada "Análise de Algoritmos Semissupervisionados para Data Augmentation"
+
+Análise de Diferentes Algoritmos Semissupervisinados para Data Augmentation
+Willian Dihanster G. Oliveira, Otávio A. B. Penatti, Lilian Berton - ICT/UNIFESP 
+
+No Aprendizado Supervisionado, a acurácia dos algoritmos e o número de exemplos rotulados usados no treinamento estão relacionados: quanto maior o número de exemplos, maior a capacidade de predição dos algoritmos. No entanto, em aplicações da vida real, obter muitos exemplos rotulados é uma tarefa difícil e custosa. Para contornar essa situação e tentar melhorar a acurácia, pode-se usar técnicas de Data Augmentation (DA). No presente projeto, foi feito o estudo de técnicas para DA por meio do aprendizado semissupervisionado baseado em grafos (com diferentes algoritmos semissupervisionados). Ademais, é importante obter um bom descritor de imagens, então foram utilizadas redes neurais convolucionais (ResNET, VGGNET, Xception) como extratores de características para as imagens utilizadas. Após a geração das bases e aplicação das técnicas de DA, experimentos de classificação foram realizados para a análise da eficiência e comparação dos algoritmos. Não houve diferença significativa entre os resultados obtidos pelos algoritmos empregados. Já para os descritores, a ResNET foi a que obteve melhores resultados. Conclui-se então que o aprendizado semissupervisionado é eficiente para DA na aplicação escolhida e que estas técnicas podem ser aplicadas em casos com poucos exemplos rotulados para melhorar o modelo gerado pelos algoritmos supervisionados.
